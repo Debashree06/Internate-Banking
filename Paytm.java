@@ -1,3 +1,4 @@
+package electricity.billing.system;
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
